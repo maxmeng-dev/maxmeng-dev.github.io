@@ -228,36 +228,16 @@ body {
   height: 20px;
 }
 
-.twitter {
-  background-image: url(../img/social/twitter.svg);
-}
-
 .github {
-  background-image: url(../img/social/github.svg);
+  background-image: url(github.svg);
 }
 
 .linkedin {
-  background-image: url(../img/social/linkedin.svg);
+  background-image: url(linkedin.svg);
 }
 
 .facebook {
-  background-image: url(../img/social/facebook.svg);
-}
-
-.mastodon {
-  background-image: url(../img/social/mastodon.svg);
-}
-
-.dribbble {
-  background-image: url(../img/social/dribbble.svg);
-}
-
-.reddit {
-  background-image: url(../img/social/reddit.svg);
-}
-
-.stackoverflow {
-  background-image: url(../img/social/stackoverflow.svg);
+  background-image: url(facebook.svg);
 }
 
 /*------------------------------------*\
