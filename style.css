@@ -229,15 +229,15 @@ body {
 }
 
 .github {
-  background-image: url(github.svg);
+  background-image: URL(./github.svg);
 }
 
 .linkedin {
-  background-image: url(linkedin.svg);
+  background-image: URL(./linkedin.svg);
 }
 
 .facebook {
-  background-image: url(facebook.svg);
+  background-image: URL(./facebook.svg);
 }
 
 /*------------------------------------*\
